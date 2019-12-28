@@ -1,6 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to node-express-api
+_Step 1_ : Clone Or Download a Project
+_Step 2_ : Run a command `npm install`
+_Step 3_ : Run your server using `node server.js`(your basic server was ready)
 
-You can use the [editor on GitHub](https://github.com/Krrish-45/node-express-api/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+note: before you did above mentioned steps you should install nodejs and mongodb data base latest
+
+## How to Write New Api
+example : api/v1/user-profile/update
+
+_Step 1_ : Go to server/api/ path and write a api 
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
