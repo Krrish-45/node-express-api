@@ -1,0 +1,23 @@
+{
+  "cSpell.words": [],
+  "vsicons.presets.angular": true,
+  "typescriptHero.imports.insertSemicolons": false,
+  "editor.tabSize": 2,
+  "html.format.endWithNewline": true,
+  "vsicons.presets.nestjs": true,
+  "workbench.iconTheme": "vscode-icons",
+  "codemetrics.nodeconfiguration.ReturnStatement": 0,
+  "codemetrics.luaconfiguration.ReturnStatement": 0,
+  "codemetrics.nodeconfiguration.CaseClause": 0,
+  "codemetrics.nodeconfiguration.DefaultClause": 0,
+  "bracket-pair-colorizer-2.colors": [
+    "Magenta",
+    "Cyan",
+    "Lime",
+    "Blue",
+    "Chocolate",
+    "Green",
+    "Silver",
+    "White"
+  ]
+}

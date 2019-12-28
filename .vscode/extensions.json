@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "streetsidesoftware.code-spell-checker",
+    "kisstkondoros.vscode-codemetrics",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "coenraads.bracket-pair-colorizer-2"
+  ]
+}
